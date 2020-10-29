@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore juypter notebook checkpoints
+`.ipynb_checkpoints`
+
+# Ignore API Keys
+`api_keys.py`
